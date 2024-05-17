@@ -1,0 +1,23 @@
+{
+  "name": "your-space",
+  "version": "1.0.0",
+  "description": "\"A simple space for you and friends\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "\"echo \"Error: no test specified\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crlyhdfrd/your-space.git"
+  },
+  "author": "\"Sean Brown\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Crlyhdfrd/your-space/issues"
+  },
+  "homepage": "https://github.com/Crlyhdfrd/your-space#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.5"
+  }
+}
